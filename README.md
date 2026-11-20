@@ -1,6 +1,6 @@
 # vehicles
 
-A simple web-application resembling a vehicle workshop.
+A simple application resembling a vehicle workshop.
 
 ## How to run
 
